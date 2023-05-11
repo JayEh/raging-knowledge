@@ -30,10 +30,6 @@ But what if your question ventures into an area not covered by your documents? R
     : Transparently states when it can't provide an answer based on the available information, ensuring you always know the limits of the provided insights.
   </li>
 </ul>
-Retrieval Augmented Generation: Leverages GPT-based model and retrieval techniques for a powerful, context-aware answer generation.
-Vector Search: Employs advanced vector search to retrieve the most relevant chunks of information from your documents.
-Informative Article Generation: Generates an informative article from the retrieved chunks, providing you not only an answer but a comprehensive understanding.
-Knowledge Limitation Awareness: Transparently states when it can't provide an answer based on the available information, ensuring you always know the limits of the provided insights.
 
 <hr>
 
