@@ -4,6 +4,8 @@ RAGing Knowledge is an innovative application that harnesses the power of OpenAI
 
 Chat with any document. Advanced document search capabilities. Direct question answering from your knowledge source.
 
+[Learn more about how RAGing Knowledge answers you questions.](https://github.com/JayEh/raging-knowledge/wiki/Answer-Area)
+
 <h2>How Does RAGing Knowledge Work?</h2>
 
 At its core, RAGing Knowledge acts as an intelligent personal assistant that comprehends your personalized document database. Our application first transforms your documents into high-dimensional vectors, creating a rich, searchable space of embeddings. When you ask a question, RAGing Knowledge uses vector search to find relevant document chunks that could contain the answer.
