@@ -37,6 +37,8 @@ But what if your question ventures into an area not covered by your documents? R
   </li>
 </ul>
 
+![image](https://github.com/JayEh/raging-knowledge/assets/20936780/6941e2ce-6193-4e17-b0e2-a2b3f8b8e2d6)
+
 <hr>
 
 RAGing Knowledge: Your go-to partner for extracting value from your bespoke documents. Unleash the power of your data and unlock answers you didn't even know were there. Experience it today!
