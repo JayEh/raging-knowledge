@@ -39,6 +39,32 @@ But what if your question ventures into an area not covered by your documents? R
 
 ![image](https://github.com/JayEh/raging-knowledge/assets/20936780/6941e2ce-6193-4e17-b0e2-a2b3f8b8e2d6)
 
+<h2>Running the Application</h2>
+
+First, you need Python >= 3.8 installed. [Download here.](https://www.python.org/downloads/)
+
+Create yourself a new virtual environment, and activate it.
+
+```
+python -m venv raging_knowledge_venv
+cd Scripts
+activate
+```
+
+Then, either clone the repo or download the files.
+
+Install the dependencies.
+
+```
+pip install -r requirements.txt
+```
+
+Launch the application.
+
+```
+python solution.py
+```
+
 <hr>
 
 RAGing Knowledge: Your go-to partner for extracting value from your bespoke documents. Unleash the power of your data and unlock answers you didn't even know were there. Experience it today!
